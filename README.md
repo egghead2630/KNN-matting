@@ -6,4 +6,7 @@
   
   About the result and details, they are all contained in report.pdf, please refer to it for more explanations.
   
+  About how to run it, please refer to README.txt
+  
+  
   
