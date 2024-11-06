@@ -6,6 +6,7 @@ This Python code demonstrates the implementation of KNN Matting, a technique des
 
 Below is an example diagram for the code flow:
 
+![image](Sample.png)
 
  
   
